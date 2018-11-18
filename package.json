@@ -1,0 +1,25 @@
+{
+  "name": "soroush-bot-node-sdk",
+  "version": "1.0.0",
+  "description": "Soroush bot nodejs sdk",
+  "author": "Mohammad Javad Masoudian <info@mjm3d.ir>",
+  "homepage": "https://github.com/2012mjm/soroush-bot-node-sdk",
+  "bugs": {
+    "url": "https://github.com/2012mjm/soroush-bot-node-sdk/issues"
+  },
+  "dependencies": {
+    "eventsource": "^1.0.7",
+    "image-size": "^0.6.3",
+    "is-image": "^2.0.0",
+    "request": "^2.88.0"
+  },
+  "main": "src/SoroushBot.js",
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [
+    "soroush",
+    "soroush bot",
+    "soroush bot sdk",
+    "soroush nodejs"
+  ]
+}
