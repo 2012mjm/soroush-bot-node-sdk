@@ -1,6 +1,6 @@
 
 # Soroush Messenger Bot Node SDK
-Soroush Messenger Bot Wrapper for Node [developer] (https://soroush-app.ir/developer.html)
+Soroush Messenger Bot Wrapper for Node [developer](https://soroush-app.ir/developer.html)
 
 ## Dependencies ##
 - request
